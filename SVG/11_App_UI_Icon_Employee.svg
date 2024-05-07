@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #003290;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g>
+    <ellipse class="cls-1" cx="32" cy="19" rx="7" ry="8"/>
+    <path class="cls-1" d="M40,50.43c-.67.1-1.33.18-2,.25"/>
+    <path class="cls-1" d="M34,50.96c-5.67.21-11.33-.45-17-1.96v-5c0-6.21,4.4-12.17,10-14l5,14,5-14c5.6,1.83,10,7.79,10,14v5c-1,.27-2,.51-3,.72"/>
+  </g>
+  <g>
+    <path class="cls-1" d="M42.25,14.64c.85-.41,1.77-.64,2.75-.64,3.87,0,7,3.58,7,8s-3.13,8-7,8"/>
+    <path class="cls-1" d="M45,30c6,2,12,11,12,17"/>
+  </g>
+  <g>
+    <path class="cls-1" d="M19,30c-3.87,0-7-3.58-7-8s3.13-8,7-8c.98,0,1.9.23,2.75.64"/>
+    <path class="cls-1" d="M7,47c0-6,6-15,12-17"/>
+  </g>
+</svg>

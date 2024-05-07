@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Icons" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #003290;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <line class="cls-1" x1="58" y1="30.05" x2="58" y2="31"/>
+  <path class="cls-1" d="M58,26v-14h0c-7.8-2.5-18.2-2.74-26-.23-8.45,2.51-18.2,2.76-26,.24h0s0,39.99,0,39.99h0c7.8,2.5,17.55,2.74,26,.23,7.8-2.52,18.2-2.81,26-.29h0s0-16.94,0-16.94"/>
+  <rect class="cls-1" x="10" y="17" width="4" height="4"/>
+  <rect class="cls-1" x="20" y="17" width="4" height="4"/>
+  <rect class="cls-1" x="30" y="16" width="4" height="4"/>
+  <rect class="cls-1" x="40" y="14" width="4" height="4"/>
+  <rect class="cls-1" x="50" y="14" width="4" height="4"/>
+  <rect class="cls-1" x="10" y="46" width="4" height="4"/>
+  <rect class="cls-1" x="20" y="46" width="4" height="4"/>
+  <rect class="cls-1" x="30" y="44" width="4" height="4"/>
+  <rect class="cls-1" x="40" y="43" width="4" height="4"/>
+  <rect class="cls-1" x="50" y="43" width="4" height="4"/>
+  <path class="cls-1" d="M10,42v-17c16,1,16-2,30-2v17c-14,0-14,3-30,2Z"/>
+  <path class="cls-1" d="M54,39c-3-1-5-1-9,0v-16c4-1,6-1,9,0"/>
+</svg>
